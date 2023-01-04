@@ -1,10 +1,13 @@
 # competitive-programming
 
 ```sh
-find . -maxdepth 1 -type d | grep -E -v "^\.$|\.git" | cut -c 3- | awk '{print "- ["$0"](https://atcoder.jp/contests/"$0"/)\n"}'
+find . -maxdepth 1 -type d | grep -E -v "^\.$|\.git" | cut -c 3- | awk '{print "|["$0"](./"$0")|[URL](https://atcoder.jp/contests/"$0"/)|"}'
 ```
 
-- [abc283](https://atcoder.jp/contests/abc283/)
+|GitHub|AtCoder|
+|---|---|
+|[abc282](./abc282)|[URL](https://atcoder.jp/contests/abc282/)|
+|[abc283](./abc283)|[URL](https://atcoder.jp/contests/abc283/)|
 
 ## TODO
 
@@ -25,8 +28,8 @@ console.log(text);
 
 - [x] [ABC283 - A. Power](https://atcoder.jp/contests/abc283/tasks/abc283_a)
 - [x] [ABC283 - B. First Query Problem](https://atcoder.jp/contests/abc283/tasks/abc283_b)
-- [ ] [ABC283 - C. Cash Register](https://atcoder.jp/contests/abc283/tasks/abc283_c)
-- [ ] [ABC282 - A. Generalized ABC](https://atcoder.jp/contests/abc282/tasks/abc282_a)
+- [x] [ABC283 - C. Cash Register](https://atcoder.jp/contests/abc283/tasks/abc283_c)
+- [x] [ABC282 - A. Generalized ABC](https://atcoder.jp/contests/abc282/tasks/abc282_a)
 - [ ] [ABC282 - B. Let's Get a Perfect Score](https://atcoder.jp/contests/abc282/tasks/abc282_b)
 - [ ] [ABC282 - C. String Delimiter](https://atcoder.jp/contests/abc282/tasks/abc282_c)
 - [ ] [ABC281 - A. Count Down](https://atcoder.jp/contests/abc281/tasks/abc281_a)

@@ -26,11 +26,11 @@ $$(".difficulty-grey").forEach(e => {
 console.log(text);
 ```
 
-- [x] [ABC283 - A. Power](https://atcoder.jp/contests/abc283/tasks/abc283_a)
-- [x] [ABC283 - B. First Query Problem](https://atcoder.jp/contests/abc283/tasks/abc283_b)
-- [x] [ABC283 - C. Cash Register](https://atcoder.jp/contests/abc283/tasks/abc283_c)
-- [x] [ABC282 - A. Generalized ABC](https://atcoder.jp/contests/abc282/tasks/abc282_a)
-- [ ] [ABC282 - B. Let's Get a Perfect Score](https://atcoder.jp/contests/abc282/tasks/abc282_b)
+- [x] `2023/01/04` [ABC283 - A. Power](https://atcoder.jp/contests/abc283/tasks/abc283_a)
+- [x] `2023/01/04` [ABC283 - B. First Query Problem](https://atcoder.jp/contests/abc283/tasks/abc283_b)
+- [x] `2023/01/05` [ABC283 - C. Cash Register](https://atcoder.jp/contests/abc283/tasks/abc283_c)
+- [x] `2023/01/05` [ABC282 - A. Generalized ABC](https://atcoder.jp/contests/abc282/tasks/abc282_a)
+- [x] `2023/01/06` [ABC282 - B. Let's Get a Perfect Score](https://atcoder.jp/contests/abc282/tasks/abc282_b)
 - [ ] [ABC282 - C. String Delimiter](https://atcoder.jp/contests/abc282/tasks/abc282_c)
 - [ ] [ABC281 - A. Count Down](https://atcoder.jp/contests/abc281/tasks/abc281_a)
 - [ ] [ABC281 - B. Sandwich Number](https://atcoder.jp/contests/abc281/tasks/abc281_b)

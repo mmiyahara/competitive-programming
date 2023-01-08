@@ -34,7 +34,7 @@ console.log(text);
 - [x] `2023/01/05` [ABC282 - C. String Delimiter](https://atcoder.jp/contests/abc282/tasks/abc282_c)
 - [x] `2023/01/06` [ABC281 - A. Count Down](https://atcoder.jp/contests/abc281/tasks/abc281_a)
 - [x] `2023/01/06` [ABC281 - B. Sandwich Number](https://atcoder.jp/contests/abc281/tasks/abc281_b)
-- [ ] [ABC281 - C. Circular Playlist](https://atcoder.jp/contests/abc281/tasks/abc281_c)
+- [x] `2023/01/08` [ABC281 - C. Circular Playlist](https://atcoder.jp/contests/abc281/tasks/abc281_c)
 - [ ] [ABC280 - A. Pawn on a Grid](https://atcoder.jp/contests/abc280/tasks/abc280_a)
 - [ ] [ABC280 - B. Inverse Prefix Sum](https://atcoder.jp/contests/abc280/tasks/abc280_b)
 - [ ] [ABC280 - C. Extra Character](https://atcoder.jp/contests/abc280/tasks/abc280_c)

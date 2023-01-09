@@ -8,7 +8,7 @@
 
 [AtCoder（競技プログラミング）の色・ランクと実力評価、問題例](https://chokudai.hatenablog.com/entry/2019/02/11/155904)
 
-|Color|上位X%|
+||Top n%|
 |---|---|
 |![c0c0c0](https://placehold.co/15x15/c0c0c0/c0c0c0.png)|100|
 |![b08c56](https://placehold.co/15x15/b08c56/b08c56.png)|50|

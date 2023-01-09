@@ -6,7 +6,7 @@
 
 ## TODO
 
-|Done||Contest|Title|
+|Done|-|Contest|Title|
 |---|---|---|---|---|
 ||![c0c0c0](https://placehold.co/15x15/c0c0c0/c0c0c0.png)|[ABC284](https://atcoder.jp/contests/abc284/tasks/abc284_a)|[A. Sequence of Strings](https://atcoder.jp/contests/abc284/tasks/abc284_a)|
 ||![c0c0c0](https://placehold.co/15x15/c0c0c0/c0c0c0.png)|[ABC284](https://atcoder.jp/contests/abc284/tasks/abc284_b)|[B. Multi Test Cases](https://atcoder.jp/contests/abc284/tasks/abc284_b)|

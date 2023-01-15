@@ -34,7 +34,7 @@
 |`2023/01/03`|![c0c0c0](https://placehold.co/15x15/c0c0c0/c0c0c0.png)|[ABC283](https://atcoder.jp/contests/abc283/tasks/abc283_a)|[A. Power](https://atcoder.jp/contests/abc283/tasks/abc283_a)|
 |`2023/01/03`|![c0c0c0](https://placehold.co/15x15/c0c0c0/c0c0c0.png)|[ABC283](https://atcoder.jp/contests/abc283/tasks/abc283_b)|[B. First Query Problem](https://atcoder.jp/contests/abc283/tasks/abc283_b)|
 |`2023/01/04`|![c0c0c0](https://placehold.co/15x15/c0c0c0/c0c0c0.png)|[ABC283](https://atcoder.jp/contests/abc283/tasks/abc283_c)|[C. Cash Register](https://atcoder.jp/contests/abc283/tasks/abc283_c)|
-||![b08c56](https://placehold.co/15x15/b08c56/b08c56.png)|[ABC283](https://atcoder.jp/contests/abc283/tasks/abc283_d)|[D. Scope](https://atcoder.jp/contests/abc283/tasks/abc283_d)|
+|`2023/01/15`|![b08c56](https://placehold.co/15x15/b08c56/b08c56.png)|[ABC283](https://atcoder.jp/contests/abc283/tasks/abc283_d)|[D. Scope](https://atcoder.jp/contests/abc283/tasks/abc283_d)|
 ||![8888ff](https://placehold.co/15x15/8888ff/8888ff.png)|[ABC283](https://atcoder.jp/contests/abc283/tasks/abc283_e)|[E. Don't Isolate Elements](https://atcoder.jp/contests/abc283/tasks/abc283_e)|
 ||![8888ff](https://placehold.co/15x15/8888ff/8888ff.png)|[ABC283](https://atcoder.jp/contests/abc283/tasks/abc283_f)|[F. Permutation Distance](https://atcoder.jp/contests/abc283/tasks/abc283_f)|
 ||![ffff56](https://placehold.co/15x15/ffff56/ffff56.png)|[ABC283](https://atcoder.jp/contests/abc283/tasks/abc283_g)|[G. Partial Xor Enumeration](https://atcoder.jp/contests/abc283/tasks/abc283_g)|

@@ -66,7 +66,7 @@
 |`2023/01/15`|![c0c0c0](https://placehold.co/15x15/c0c0c0/c0c0c0.png)|[ABC279](https://atcoder.jp/contests/abc279/tasks/abc279_a)|[A. wwwvvvvvv](https://atcoder.jp/contests/abc279/tasks/abc279_a)|
 |`2023/01/15`|![c0c0c0](https://placehold.co/15x15/c0c0c0/c0c0c0.png)|[ABC279](https://atcoder.jp/contests/abc279/tasks/abc279_b)|[B. LOOKUP](https://atcoder.jp/contests/abc279/tasks/abc279_b)|
 |`2023/01/15`|![c0c0c0](https://placehold.co/15x15/c0c0c0/c0c0c0.png)|[ABC279](https://atcoder.jp/contests/abc279/tasks/abc279_c)|[C. RANDOM](https://atcoder.jp/contests/abc279/tasks/abc279_c)|
-||![b08c56](https://placehold.co/15x15/b08c56/b08c56.png)|[ABC279](https://atcoder.jp/contests/abc279/tasks/abc279_d)|[D. Freefall](https://atcoder.jp/contests/abc279/tasks/abc279_d)|
+|`2023/01/19`|![b08c56](https://placehold.co/15x15/b08c56/b08c56.png)|[ABC279](https://atcoder.jp/contests/abc279/tasks/abc279_d)|[D. Freefall](https://atcoder.jp/contests/abc279/tasks/abc279_d)|
 ||![42e0e0](https://placehold.co/15x15/42e0e0/42e0e0.png)|[ABC279](https://atcoder.jp/contests/abc279/tasks/abc279_e)|[E. Cheating Amidakuji](https://atcoder.jp/contests/abc279/tasks/abc279_e)|
 ||![8888ff](https://placehold.co/15x15/8888ff/8888ff.png)|[ABC279](https://atcoder.jp/contests/abc279/tasks/abc279_f)|[F. BOX](https://atcoder.jp/contests/abc279/tasks/abc279_f)|
 ||![ffb836](https://placehold.co/15x15/ffb836/ffb836.png)|[ABC279](https://atcoder.jp/contests/abc279/tasks/abc279_g)|[G. At Most 2 Colors](https://atcoder.jp/contests/abc279/tasks/abc279_g)|

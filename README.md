@@ -90,7 +90,7 @@
 ||![c0c0c0](https://placehold.co/15x15/c0c0c0/c0c0c0.png)|[ABC276](https://atcoder.jp/contests/abc276/tasks/abc276_a)|[A. Rightmost](https://atcoder.jp/contests/abc276/tasks/abc276_a)|
 ||![c0c0c0](https://placehold.co/15x15/c0c0c0/c0c0c0.png)|[ABC276](https://atcoder.jp/contests/abc276/tasks/abc276_b)|[B. Adjacency List](https://atcoder.jp/contests/abc276/tasks/abc276_b)|
 ||![c0c0c0](https://placehold.co/15x15/c0c0c0/c0c0c0.png)|[ABC276](https://atcoder.jp/contests/abc276/tasks/abc276_c)|[C. Previous Permutation](https://atcoder.jp/contests/abc276/tasks/abc276_c)|
-||![b08c56](https://placehold.co/15x15/b08c56/b08c56.png)|[ABC276](https://atcoder.jp/contests/abc276/tasks/abc276_d)|[D. Divide by 2 or 3](https://atcoder.jp/contests/abc276/tasks/abc276_d)|
+|`2023/01/27`|![b08c56](https://placehold.co/15x15/b08c56/b08c56.png)|[ABC276](https://atcoder.jp/contests/abc276/tasks/abc276_d)|[D. Divide by 2 or 3](https://atcoder.jp/contests/abc276/tasks/abc276_d)|
 ||![3faf3f](https://placehold.co/15x15/3faf3f/3faf3f.png)|[ABC276](https://atcoder.jp/contests/abc276/tasks/abc276_e)|[E. Round Trip](https://atcoder.jp/contests/abc276/tasks/abc276_e)|
 ||![42e0e0](https://placehold.co/15x15/42e0e0/42e0e0.png)|[ABC276](https://atcoder.jp/contests/abc276/tasks/abc276_f)|[F. Double Chance](https://atcoder.jp/contests/abc276/tasks/abc276_f)|
 ||![ffff56](https://placehold.co/15x15/ffff56/ffff56.png)|[ABC276](https://atcoder.jp/contests/abc276/tasks/abc276_g)|[G. Count Sequences](https://atcoder.jp/contests/abc276/tasks/abc276_g)|
